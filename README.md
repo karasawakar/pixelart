@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
         .pixel {
-            width: 10px; /* 半分のサイズに変更 */
-            height: 10px; /* 半分のサイズに変更 */
+            width: 3px; /* 半分のサイズに変更 */
+            height: 3px; /* 半分のサイズに変更 */
             float: left;
             border: 1px solid #ddd;
         }
