@@ -24,7 +24,7 @@
 </head>
 <body>
     <div id="color-picker">
-        <p style="color: red; font-size: 1.2em;">Save as JPGはPCで実施してください。<br>スマホでは未検証です。</p>
+        <p style="color: red; font-size: 1.2em;">Save as JPGはPCで実施してください。スマホでは未検証です。</p>
         <label for="colors">Choose color:</label>
         <input type="color" id="color" value="#000000">
     </div>
